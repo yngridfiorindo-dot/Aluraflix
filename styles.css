@@ -1,8 +1,12 @@
 body {
     color: white;
     background: black;
+    margin: 0px;
 }
 
 header {
-    border: solid 2px rgba(247, 48, 147, 0.623);
+    border-bottom: solid 2px rgb(247, 48, 147, 0.623);
+    padding: 20px;
+    font-size 29px;
+    color: rgb(247, 48, 147, 0.623)
 }
