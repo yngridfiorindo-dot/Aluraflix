@@ -15,4 +15,10 @@ section{
     background-color: rgb(24, 131, 180, 1);
     padding-bottom: 80px;
     padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    margin-right: 20px;
 }
